@@ -103,7 +103,7 @@
 .edit-card-buttons {
   display: flex;
   margin-bottom: 0.5em;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .edit-card-input {
@@ -120,7 +120,7 @@
 }
 
 input {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: auto;
   width: 250px;
   border-radius: 20px;
@@ -131,7 +131,7 @@ input {
 
 
 .buttonCards {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: bolder;
   margin: auto;
   width: 230px;

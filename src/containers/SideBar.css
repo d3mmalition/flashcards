@@ -11,6 +11,8 @@
   background-color: #f0f0f1;
   color: #000000;
   overflow-y: scroll;
+border-radius: 8px;
+    box-shadow: 2px 1px 1px rgb(209, 209, 209);
 }
 
 .sidebar-icon-bar {
@@ -23,12 +25,14 @@
   align-items: center;
   width: 60px;
   height: 100%;
-  background-color: #273258;
+  box-shadow: 2px 1px 1px rgb(209, 209, 209);
+  background-color: #FFB347;
   color: #ffffff;
+  box-shadow: grey;
 }
 
 .sidebar-title {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 24px;
   padding-left: 64px;
   padding-top: 16px;
@@ -42,6 +46,7 @@
   cursor: pointer;
   user-select: none;
   margin: 1em;
+  
 }
 
 .sidebar-header {
@@ -49,6 +54,7 @@
   align-items: center;
   justify-content: space-between;
   padding-left: 16px;
+    box-shadow: 2px 1px 1px rgb(209, 209, 209);
 }
 
 .add-deck-button {
@@ -72,7 +78,7 @@
 }
 
 .deck-data {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: column;
 }
